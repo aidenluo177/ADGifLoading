@@ -7,6 +7,7 @@
 //
 
 #import "ADViewController.h"
+#import "UIView+ADGifLoading.h"
 
 @interface ADViewController ()
 
@@ -18,6 +19,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [self.view ad_setLoadingImageGifName:@"run@2x.gif"];
+    [self.view ad_showLoading];
+    
+    [self.view performSelector:@selector(ad_hideLoading) withObject:nil afterDelay:3.0];
 }
 
 - (void)didReceiveMemoryWarning

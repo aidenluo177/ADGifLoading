@@ -1,0 +1,17 @@
+PODS:
+  - ADGifLoading (0.1.0):
+    - AnimatedGIFImageSerialization
+  - AnimatedGIFImageSerialization (0.2.0)
+
+DEPENDENCIES:
+  - ADGifLoading (from `../`)
+
+EXTERNAL SOURCES:
+  ADGifLoading:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ADGifLoading: 5562d182bdb69289d6e3276a5787f7ff648fa93d
+  AnimatedGIFImageSerialization: ee2b8f04ec1143dd196cac160a7b119753891825
+
+COCOAPODS: 0.35.0
