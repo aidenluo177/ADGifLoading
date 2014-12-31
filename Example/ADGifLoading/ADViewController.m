@@ -22,7 +22,7 @@
     [self.view ad_setLoadingImageGifName:@"run@2x.gif"];
     [self.view ad_showLoading];
     
-    [self.view performSelector:@selector(ad_hideLoading) withObject:nil afterDelay:3.0];
+//    [self.view performSelector:@selector(ad_hideLoading) withObject:nil afterDelay:3.0];
 }
 
 - (void)didReceiveMemoryWarning
