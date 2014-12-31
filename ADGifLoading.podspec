@@ -12,8 +12,15 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "Add loading indicator using animated GIF to any view with just simple code"
   s.description      = <<-DESC
-                       An optional longer description of ADGifLoading
-
+                       Show loading indicator
+                       ```
+                       [self.view ad_setLoadingImageGifName:@"run@2x.gif"];
+                       [self.view ad_showLoading];
+                       ```
+                       Hide loading indicator
+                       ```
+                       [self.view ad_hideLoading];
+                       ```
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
