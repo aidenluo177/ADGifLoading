@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ADGifLoading"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Add loading indicator using animated GIF to any view with just simple code"
   s.description      = <<-DESC
                        Show loading indicator
