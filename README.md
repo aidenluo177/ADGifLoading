@@ -1,6 +1,6 @@
 # ADGifLoading
 
-[![CI Status](http://img.shields.io/travis/aidenluo/ADGifLoading.svg?style=flat)](https://travis-ci.org/aidenluo/ADGifLoading)
+[![CI Status](https://travis-ci.org/aidenluo177/ADGifLoading.svg?style=flat)](https://travis-ci.org/aidenluo/ADGifLoading)
 [![Version](https://img.shields.io/cocoapods/v/ADGifLoading.svg?style=flat)](http://cocoadocs.org/docsets/ADGifLoading)
 [![License](https://img.shields.io/cocoapods/l/ADGifLoading.svg?style=flat)](http://cocoadocs.org/docsets/ADGifLoading)
 [![Platform](https://img.shields.io/cocoapods/p/ADGifLoading.svg?style=flat)](http://cocoadocs.org/docsets/ADGifLoading)
